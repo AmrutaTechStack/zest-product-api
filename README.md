@@ -382,3 +382,13 @@ Example Response:
 # 🏁 Conclusion
 
 Zest Product API demonstrates enterprise-level backend development standards including security, modular design, testing strategy, documentation, and containerized deployment. This implementation is scalable, maintainable, and production-ready.
+
+## 👩‍💻 Author
+
+**Amruta Kumar Dash**
+
+Java Backend Developer
+
+📧 Email: dashraja920@gmail.com 
+
+🔗 GitHub: https://github.com/AmrutaTechStack/zest-product-api
