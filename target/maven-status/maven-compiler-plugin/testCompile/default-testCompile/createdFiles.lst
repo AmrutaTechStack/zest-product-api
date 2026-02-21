@@ -1,0 +1,3 @@
+com\zest\productapi\service\ProductServiceImplTest.class
+com\zest\productapi\controller\ProductControllerTest.class
+com\zest\productapi\integration\ProductIntegrationTest.class
